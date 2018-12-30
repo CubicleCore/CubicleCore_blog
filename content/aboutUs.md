@@ -1,7 +1,6 @@
 ---
 title: "About"
 date: 2018-12-30T08:38:37-06:00
-draft: false
 Menus: "main"
 weight: 20
 ---
