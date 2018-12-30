@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cubicle Core</title>
-    <link>http://cbcr.org/</link>
+    <link>https://cubiclecore.github.io/CubicleCore_blog/</link>
     <description>Recent content on Cubicle Core</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://cbcr.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cubiclecore.github.io/CubicleCore_blog/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

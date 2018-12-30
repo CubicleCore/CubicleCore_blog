@@ -1,4 +1,4 @@
-baseURL = "http://cbcr.org/"
+baseURL = "https://cubiclecore.github.io/CubicleCore_blog/"
 languageCode = "en-us"
 title = "Cubicle Core"
 theme = "ananke" 
