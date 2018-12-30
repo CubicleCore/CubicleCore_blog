@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 date: 2018-12-29T14:41:38-06:00
-draft: true
+draft: false
 ---
 
 Cubicle Core
