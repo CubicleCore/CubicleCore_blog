@@ -6,12 +6,7 @@ author: "Connor"
 
 Look At This Cute Dog!
 ======================
-
-Test 1
-![Luna0001](/images/luna0001.jpeg)
-
-Test2
-![Luna0002](/content/Posts/images/luna0001.jpeg)
+![Luna0002](/CubicleCore_blog/Posts/images/luna0001.jpeg)
 
 -C
 
