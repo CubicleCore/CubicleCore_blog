@@ -7,7 +7,11 @@ author: "Connor"
 Look At This Cute Dog!
 ======================
 
-![Luna0001](/img/luna0001.jpeg)
+Test 1
+![Luna0001](/images/luna0001.jpeg)
+
+Test2
+![Luna0002](/content/Posts/images/luna0001.jpeg)
 
 -C
 
