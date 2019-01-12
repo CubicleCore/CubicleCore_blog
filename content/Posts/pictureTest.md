@@ -2,12 +2,14 @@
 title: "Picture Test"
 date: 2018-12-29T14:41:38-06:00
 author: "Connor"
-draft: "true"
+draft: "false"
 ---
 
 Look At This Cute Dog!
 ======================
 ![Luna0002](/CubicleCore_blog/Posts/images/luna0001.jpeg)
+test 2
+![Luna0002](https://cubiclecore.github.io/CubicleCore_blog/Posts/images/luna0001.jpeg)
 
 -C
 
