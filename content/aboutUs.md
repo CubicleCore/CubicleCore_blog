@@ -2,7 +2,7 @@
 title: "About"
 date: 2018-12-30T08:38:37-06:00
 Menus: "main"
-author: Connor Ruppert
+author: "Connor"
 weight: 20
 ---
 
