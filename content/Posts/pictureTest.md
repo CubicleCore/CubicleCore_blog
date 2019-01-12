@@ -7,8 +7,8 @@ author: "Connor"
 Look At This Cute Dog!
 ======================
 ![Luna0002](/CubicleCore_blog/Posts/images/luna0001.jpeg)
-test 2
-![Luna0002](https://cubiclecore.github.io/CubicleCore_blog/Posts/images/luna0001.jpeg)
+test 2--
+![Luna0002](github.io/CubicleCore_blog/Posts/images/luna0001.jpeg)
 
 -C
 
