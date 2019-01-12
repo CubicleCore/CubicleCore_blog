@@ -10,6 +10,8 @@ Look At This Cute Dog!
 test 2--
 ![Luna0003](github.io/CubicleCore_blog/Posts/images/luna0001.jpeg)
 test3
-![Luna0003](https://github.com/CubicleCore/CubicleCore_blog/blob/master/content/Posts/images/luna0001.jpeg)
+![Luna0004](https://github.com/CubicleCore/CubicleCore_blog/blob/master/content/Posts/images/luna0001.jpeg)
+![Luna0005](/images/luna0001.jpeg)
 -C
+
 
