@@ -18,6 +18,15 @@
     </item>
     
     <item>
+      <title>build Test</title>
+      <link>https://cubiclecore.github.io/CubicleCore_blog/posts/ci_test/</link>
+      <pubDate>Sun, 30 Dec 2018 08:38:37 -0600</pubDate>
+      
+      <guid>https://cubiclecore.github.io/CubicleCore_blog/posts/ci_test/</guid>
+      <description>hopefully this builds This is small headder this is to test CI</description>
+    </item>
+    
+    <item>
       <title>Welcome pt 2</title>
       <link>https://cubiclecore.github.io/CubicleCore_blog/posts/mikesfirstpost/</link>
       <pubDate>Tue, 01 Jan 2019 16:33:38 +0000</pubDate>
