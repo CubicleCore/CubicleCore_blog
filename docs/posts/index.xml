@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Cubicle Core</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Posts on Cubicle Core</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Dec 2018 14:41:38 -0600</lastBuildDate>
-    
-	<atom:link href="https://cubiclecore.github.io/CubicleCore_blog/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 01 Jan 2019 16:33:38 +0000</lastBuildDate><atom:link href="https://cubiclecore.github.io/CubicleCore_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
       <link>https://cubiclecore.github.io/CubicleCore_blog/posts/my-first-post/</link>
@@ -37,7 +33,7 @@
       <pubDate>Sat, 29 Dec 2018 14:41:38 -0600</pubDate>
       
       <guid>https://cubiclecore.github.io/CubicleCore_blog/posts/picturetest/</guid>
-      <description>Look At This Cute Dog! -C</description>
+      <description>Look At This Cute Dog! [comment]: &amp;lt;&amp;gt; (this is how the url needs to work for picutres) -C</description>
     </item>
     
   </channel>
