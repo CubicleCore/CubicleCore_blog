@@ -4,6 +4,7 @@ date: 2018-12-30T08:38:37-06:00
 Menus: "Posts"
 author: Connor
 weight: 20
+draft: "true"
 ---
 
 hopefully this builds
